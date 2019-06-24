@@ -1,0 +1,7 @@
+# Bee document generator jazzy settings
+
+copyright: Copyright 2019 Bee
+author: yaochenfeng
+xcodebuild_arguments: [-target, Bee-iOS]
+clean: true
+output: ./Documentation
